@@ -1,0 +1,1 @@
+import{t as e}from"./CertificateFormView.bUfQ8s62.js";export{e as default};
